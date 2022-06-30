@@ -8,7 +8,7 @@
   Hi, my name is Santiago.
   <br>
   <br>
-  🔬 I am currently studying FullStack Web Development at DigitalHouse.
+  🔬 I am currently studying Web Development at DigitalHouse.
 
 </p>
 
